@@ -4,9 +4,11 @@
     <ImageSlider class="image" />
     <KantoDes class="tabs" />
     <CityTable class="table" />
-    <ImportantPlaces class="places" />
-    <ImportantAttractions class="attraction" />
-    <Badges class="badges" />
+    <ImportantPlaces  />
+    <ImportantAttractions />
+    <Badges  />
+    <Pictures />
+    <Map />
   </div>
 </template>
 
@@ -18,6 +20,8 @@ import CityTable from "../components/CityTable.vue";
 import ImportantPlaces from "../components/ImportantPlaces.vue";
 import ImportantAttractions from "../components/ImportantAttractions.vue";
 import Badges from "../components/Badges.vue";
+import Pictures from "../components/Pictures.vue"
+import Map from "../components/Map.vue"
 export default {
   components: {
     ImageSlider,
@@ -26,7 +30,9 @@ export default {
     CityTable,
     ImportantPlaces,
     ImportantAttractions,
-    Badges
+    Badges,
+    Pictures,
+    Map
     
   },
   data: () => ({

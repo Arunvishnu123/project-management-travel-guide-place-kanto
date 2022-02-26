@@ -4,9 +4,10 @@
         <w-toolbar bg-color="blue-light5" color="blue-dark3">
             <div class="title2">Kanto Travel Guide</div>
             <div class="spacer"></div>
-            <span class="ml2">Places to Visit</span>
-            <span class="ml2">Item 2</span>
-            <span class="ml2">Item 3</span>
+            <span class="ml2">Cities</span>
+            <span class="ml2">Attractions</span>
+            <span class="ml2">Badges</span>
+            <span class="ml2">Pictures</span>
         </w-toolbar>
     </div>
 </w-app>

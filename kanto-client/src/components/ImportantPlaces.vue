@@ -1,7 +1,7 @@
 <template>
 <div class="test">
     <w-app>
-        <w-tag xl height="3em" class="heading" bg-color="primary">Places to Visit</w-tag>
+        <w-tag xl height="3em" class="heading" bg-color="primary">Cities in World Kanto</w-tag>
 
         <div class="cities">
             <vueper-slides class="no-shadow" slide-multiple :arrows-outside="false" :visible-slides="4" :slide-ratio="1 / 4" :dragging-distance="70">

@@ -1,14 +1,14 @@
 <template>
-<div>
+<div class="test">
     <w-app>
-        <w-tag xl height="3em" class="heading" bg-color="primary">Tourist Attractions in World Kanto</w-tag>
-   
-<div class="cities">
-    <vueper-slides class="no-shadow"  slide-multiple :arrows-outside="false" :visible-slides="4" :slide-ratio="1 / 4" :dragging-distance="70">
-        <vueper-slide v-for="i in 12" :key="i" :title="i.toString()" :style="'background-color: ' + ['#ff5252', '#42b983'][i % 2]" />
-    </vueper-slides>
-</div>
- </w-app>
+        <w-tag xl height="3em" class="heading" bg-color="primary">Some Pictures of World Kanto</w-tag>
+
+        <div class="cities">
+            <vueper-slides class="no-shadow" slide-multiple :arrows-outside="false" :visible-slides="4" :slide-ratio="1 / 4" :dragging-distance="70">
+                <vueper-slide v-for="i in 12" :key="i" :title="i.toString()" :style="'background-color: ' + ['#ff5252', '#42b983'][i % 2]" />
+            </vueper-slides>
+        </div>
+    </w-app>
 </div>
 </template>
 
@@ -19,7 +19,7 @@ import {
 } from "vueperslides";
 import "vueperslides/dist/vueperslides.css";
 export default {
-    name: "ImportantAttractions",
+    name: "Pictures",
     components: {
         VueperSlides,
         VueperSlide,
@@ -33,8 +33,14 @@ export default {
     color: white;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-.no-shadow{
+
+.no-shadow {
     position: relative;
     height: -10000px;
+}
+.test{
+    position: relative;
+    top: -850px;
+    height: 0; 
 }
 </style>
