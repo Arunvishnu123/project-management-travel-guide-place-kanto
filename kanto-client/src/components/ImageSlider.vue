@@ -1,7 +1,7 @@
 <template>
 <div>
-    <vueper-slides fade :touchable="true">
-        <vueper-slide v-for="slide in slides" :key="slide.id" :image="slide.image">
+    <vueper-slides :duration="1000" autoplay fade :touchable="true">
+        <vueper-slide   v-for="slide in slides" :key="slide.id" :image="slide.image">
             <template #content>
                 <div class="vueperslide__content-wrapper">
                     <div class="vueperslide__title">{{ slide.title }}</div>
@@ -18,36 +18,34 @@ import {
     VueperSlides,
     VueperSlide
 } from "vueperslides";
-import 'vueperslides/dist/vueperslides.css'
+import "vueperslides/dist/vueperslides.css";
 
 export default {
-    name:"ImageSlider",
+    name: "ImageSlider",
     components: {
         VueperSlides,
         VueperSlide,
     },
     data: () => ({
         slides: [{
-                image: "https://tlauncher.org/images/2013-05-28_021150_5598231.jpg",
+                image: "https://archives.bulbagarden.net/media/upload/2/25/LGPE_Kanto_Map.png",
                 title: "Welcome to Kanto",
-                content: "Slide content.",
+                content: "The Pokemon World",
             },
             {
-                image: "https://daily.pokecommunity.com/wp-content/uploads/2020/07/pokemon-paths.jpg",
-                title: "Visit",
-                content: "Slide content.",
+                image: "https://tlauncher.org/images/2013-05-28_021150_5598231.jpg",
+                title: "Welcome to Kanto",
+                content: "The Pokemon World",
             },
             {
                 image: "https://static.planetminecraft.com/files/resource_media/screenshot/1520/dpm6b8919209_lrg.jpg",
-                title: "Content 2",
-                content: "Slide content.",
-            },
-            {
-                image: "https://static.planetminecraft.com/files/resource_media/screenshot/1251/Celadon1_4453712_lrg.jpg",
-                title: "Content 3",
-                content: "Slide content.",
+                title: "Welcome to Kanto",
+                content: "The Pokemon World",
             },
         ],
+        pauseOnHover: true,
+        autoPlaying: true,
+        internalAutoPlaying: true,
     }),
 };
 </script>
@@ -58,14 +56,14 @@ export default {
 }
 
 .vueperslide__title {
-    font-size: 7em;
+    font-size: 5em;
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .vueperslide__content {
-    font-size: 4em;
+    font-size: 3em;
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 </style>
