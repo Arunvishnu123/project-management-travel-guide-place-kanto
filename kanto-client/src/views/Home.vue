@@ -11,7 +11,7 @@
             <span class="test1 ml2"><a class="test1" href="#badges">Badges</a></span>
             <span class="test1 ml2"><a class="test1" href="#pictures">Pictures</a></span>
              <span class="test1 ml2"><a class="test1" href="#map">Map</a></span>
-            <span class="test1 ml2"><a class="test1" href="#">Admin</a></span>
+            <span class="test1 ml2"><a class="test1" href="/admin">Admin</a></span>
         </w-toolbar>
     </div>
 </w-app>
@@ -91,11 +91,7 @@ export default {
     font-size: .5cm;
     color: white;
 }
-.title{
-  position: -webkit-sticky;
-  position: sticky;
-  top:0
-}
+
 a:link,
 a:visited {
     background-color: info-dark1;

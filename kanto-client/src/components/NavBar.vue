@@ -1,14 +1,12 @@
 <template>
 <w-app>
-    <div class="title">
+    <div>
         <w-toolbar bg-color="info-dark1" color="white">
-            <div class="title2">Kanto Travel Guide</div>
+            <div class="test">Kanto Travel Guide</div>
             <div class="spacer"></div>
-            <span class="ml2"><a class="test" href="url">Cities</a></span>
-            <span class="test ml2"><a class="test" href="url">Attractions</a></span>
-            <span class="test ml2"><a class="test" href="#kantoID">Badges</a></span>
-            <span class="test ml2"><a class="test" href="url">Pictures</a></span>
-            <span class="test ml2"><a class="test" href="url">Admin</a></span>
+            <div class="test">Admin Page</div>
+            <div class="spacer"></div>
+            <span class="ml2"><a class="test" href="/">Travel Guide</a></span>
         </w-toolbar>
     </div>
 </w-app>
@@ -17,29 +15,15 @@
 <script>
 export default {
     name: "NavBar",
-    props: {
-        kantoID: {
-            default () {
-                return {};
-            }
-
-        }
-
-    }
 };
 </script>
 
 <style scoped>
-.title2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 11cm;
-}
-
 .test {
     padding-left: 15px;
     padding-right: 15px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: .5cm;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: 0.5cm;
     color: white;
 }
 
@@ -58,6 +42,5 @@ a:hover,
 a:active {
     background-color: rgb(26, 59, 245);
     color: white;
-
 }
 </style>
