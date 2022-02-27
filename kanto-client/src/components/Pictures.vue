@@ -5,7 +5,12 @@
 
         <div class="cities">
             <vueper-slides class="no-shadow" slide-multiple :arrows-outside="false" :visible-slides="4" :slide-ratio="1 / 4" :dragging-distance="70">
-                <vueper-slide v-for="i in 12" :key="i" :title="i.toString()" :style="'background-color: ' + ['#ff5252', '#42b983'][i % 2]" />
+                <vueper-slide v-for="i in 12" :key="i" :title="i.toString()" :style="'background-color: ' + ['#ff5252', '#42b983'][i % 2]">
+                     <template #content>
+                    <w-image class="image" src="https://archives.bulbagarden.net/media/upload/2/25/LGPE_Kanto_Map.png">
+                    </w-image>
+                     </template>
+                </vueper-slide>
             </vueper-slides>
         </div>
     </w-app>
@@ -38,9 +43,10 @@ export default {
     position: relative;
     height: -10000px;
 }
-.test{
+
+.test {
     position: relative;
     top: -850px;
-    height: 0; 
+    height: 0;
 }
 </style>
