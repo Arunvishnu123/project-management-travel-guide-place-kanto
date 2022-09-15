@@ -1,0 +1,87 @@
+[
+    {   
+        "stepNumber": "step - 1",
+        "cityName": "Pallet Town",
+        "contentInfo": "The player has to start from Pallet Town. At this city player meets Professor Oak and receive first pokemon and then starts walking through north side on Route1"
+    },
+    {
+        "stepNumber": "step - 2",
+        "cityName": "Viridian City",
+        "contentInfo": "By walking through Route1 player reach Viridian City. But player has to visit this city for getting 8th gym badge. So, player continue his walking towards Route2"
+    },
+    {
+        "stepNumber": "step - 3",
+        "cityName": "Viridian Forest",
+        "contentInfo": "By walking through Route2 player reach Viridian Forest. Player has to Navigate through Viridian Forest to make it to the next town"
+    },
+    {
+        "stepNumber": "step - 4",
+        "cityName": "Pewter City",
+        "contentInfo": "By walking through Viridian Forest player reach Pewter City. It is the first gym city and Brock is the leader of gym, he is an expert in rock type pokemon. After win badge in this gym player has to walk towards east on Route3"
+    },
+    {
+        "stepNumber": "step - 5",
+        "cityName": "Mt Moon",
+        "contentInfo": "By walking through Route3 player reach Mt.Moon. Player has to Navigate through Mt.Moon to reach Route4. It is the point the player has completed his first set of challenges"
+    },
+    {
+        "stepNumber": "step - 6",
+        "cityName": "Cerulean City",
+        "contentInfo": "By walking through Route4 player reach Cerulean City. It is the second gym city and Misty is the leader of gym, he is an expert in water type pokemon.After win badge in this gym player has to walk towards north on Route24 and Route25"
+    },
+    {
+        "stepNumber": "step - 7",
+        "cityName": "Sea Cottage(Bill's House)",
+        "contentInfo": "By walking through Route25 player reach Bill's House. Player has to take S.S.Anne ticket here from Bill and then walk back to Cerulean City."
+    },
+    {
+        "stepNumber": "step - 8",
+        "cityName": "Vermilion City",
+        "contentInfo": "After taking the S.S.Anne ticket, player has to walk towards Route5 and Route6 from Cerulean City to reach Vermilion City. It is the third gym city and Lt. Surge is the leader of gym, he is an expert in Electric type pokemon."
+    },
+    {
+        "stepNumber": "step - 9",
+        "cityName": "Diglett's Cave",
+        "contentInfo": "After won the badge in Vermillion city the player has entered to Diglett's Cave, it is just East of Vermilion City. From Diglett's Cave the player walk towards Route11, Route9, Rocktunnel, Route10, Power Point and finally reaches to Lavender Town"
+    },
+    {
+        "stepNumber": "step - 10",
+        "cityName": "Lavender Town",
+        "contentInfo": "Players has to do nothing here at this point, so just heal up and head West towards Route8 and Route7"
+    },
+    {
+        "stepNumber": "step - 11",
+        "cityName": "Celadon City",
+        "contentInfo": "By walking through Route7 player reach Celadon City.It is the fourth gym city and Erika is the leader of gym, he is an expert in Grass type pokemon.After win badge in this gym player can now travel back without going through the tunnel as before"
+    },
+    {
+        "stepNumber": "step - 12",
+        "cityName": "Saffron City",
+        "contentInfo": "The player has to entered Saffron City. It is the fifth gym city. Before challenge the fifth gym, player must defeat the members in the center building. The center building is Silph Co. When entering, player will need to defeat Giovanni once more. Afterwards, player will be greeted by the president of Silph Co. Now player can challenge the fifth gym. Sabrina is the leader of gym, who's an expert in Psychic type pokemon"
+    },
+    {
+        "stepNumber": "step - 13",
+        "cityName": "Fuchsia City",
+        "contentInfo": "After won the badge in Saffron City player has to walk towards Route12, Route13, Route14 and Route15 to reach Fuchsia City. It is the sixth gym city. Koga is the leader of gym, he is an expert in Poison type pokemon. From Fuchsia City player has access to go to Route18, Route17, Route16. For going to these Routes player need a bike."
+    },
+    {
+        "stepNumber": "step - 14",
+        "cityName": "Seaform Island",
+        "contentInfo": "From Fuchsia City player has able to make way to Cinnabar Island which is at head South to Fuchsia City. Player has to take Route19 and Route20 then he reaches to Seaform Islands. Seaform and cinnabar Islands are called twin Islands. From here player walk towards Route20 to reach Cinnabar Islands"
+    },
+    {
+        "stepNumber": "step - 15",
+        "cityName": "Cinnabar Island",
+        "contentInfo": "The Cinnabar Gym is locked when player arrive on the island. To obtain the key, player must go to the basement of the Pokemon Mansion, located on the Northwest end of the island. When player arrive in the basement, head Northwest and battle the trainer sitting at the table. Beating him will get player the Gym Key. It is the seventh gym place. Blaine is the leader of gym, who is an expert in Fire type pokemon"
+    },
+    {
+        "stepNumber": "step - 16",
+        "cityName": "Viridian City",
+        "contentInfo": "From Cinnabar Gym the player has to go to win last badge (eighth badge)which is in Viridian City gym. Player walks towards head North of Cinnabar Island, Route21, back to Pallet town and then take Route1 to make way to Viridian City. Giovanni is the leader of gym, he is an expert in Ground type pokemon"
+    },
+    {
+        "stepNumber": "step - 17",
+        "cityName": "Victory Road",
+        "contentInfo": "Here player have all eight badges of the Kanto region. Now, player will have the opportunity to test skills against the strongest of the entire region, the Elite Four. To get there, plater starts from Viridian City to Route22 and Route23. Player will need Surf to get into Victory Road. Player has to defeat the Elite Four for progress to the Johto region from Kanto Region" 
+    }
+    ]

@@ -1,0 +1,244 @@
+[
+    {
+        "routeName": "Kanto Route 1",
+        "id": "1",
+        "location": "Kanto Region",       
+        "description": "Kanto route 1 connects Viridian city from north side and Pallet town from south side.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/e/ee/Route_1.png/revision/latest/top-crop/width/200/height/150?cb=20100904225829",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_1"
+    },
+    { 
+        "routeName": "Kanto Route 2",
+        "id": "2",
+        "location": "Kanto Region",       
+        "description": "Kanto route 2 connects Pewter city from north side, Diglett's cave from east and Viridian city from south side.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/0/0f/Route_2_kanto.png/revision/latest/top-crop/width/200/height/150?cb=20170607135727",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_2"
+    },
+    {
+        "routeName": "Kanto Route 3",
+        "id": "3",
+        "location": "Kanto Region",        
+        "description": "Kanto route 3 connects Mt. Moon from east side, Pewter city from west.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/8/89/Route_3_kanto.png/revision/latest/top-crop/width/200/height/150?cb=20170607140258",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_3"
+    },
+    {
+        "routeName": "Kanto Route 4",
+        "id": "4",
+        "location": "Kanto Region",        
+        "description": "Kanto route 4 connects Mt. Moon from west side, Cerulean city from east.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/3/3e/Kanto_route_4.png/revision/latest/scale-to-width-down/300?cb=20170607140708",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_4"
+
+
+    },
+    {
+        
+        "routeName": "Kanto Route 5",
+        "id": "5",
+        "location": "Kanto Region", 
+        "description": "Kanto route 5 connects Saffron city from south side, Cerulean city from north.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/b/b6/Route_5.png/revision/latest/scale-to-width-down/512?cb=20100905164433",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_5"
+
+    },
+    {
+        "routeName": "Kanto Route 6",
+        "id": "6",
+        "location": "Kanto Region",
+        "description": "Kanto route 6 connects Saffron city from north side, Vermilion city from south.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/2/2e/Route_6.png/revision/latest/scale-to-width-down/480?cb=20100905003509",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_6"
+
+    },
+    {
+        "routeName": "Kanto Route 7",
+        "id": "7",
+        "location": "Kanto Region",
+        "description": "Kanto route 7 connects Saffron city from east side, Celadon city from west.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/5/5f/Route_7.png/revision/latest/top-crop/width/200/height/150?cb=20100904230629",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_7"
+
+    },
+    {
+        "routeName": "Kanto Route 8",
+        "id": "8",
+        "location": "Kanto Region", 
+        "description": "Kanto route 8 connects Saffron city from west side, Lavender town from east.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/b/b3/Route_8.png/revision/latest/scale-to-width-down/1000?cb=20100904225242",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_8"
+
+    },
+    {
+        "routeName": "Kanto Route 9",
+        "id": "9",
+        "location": "Kanto Region",  
+        "description": "Kanto route 9 connects Cerulean city from west side, route 10 from east.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/7/78/FRLG_Route_9.jpg/revision/latest/scale-to-width-down/1000?cb=20171008065143",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_9"
+
+    },
+    {
+        "routeName": "Kanto Route 10",
+        "id": "10",
+        "location": "Kanto Region",
+        "description": "Kanto route 10 connects Lavender town from south side, route 9 from north.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/0/03/HGSS_Route_10.png/revision/latest/scale-to-width-down/512?cb=20100905220919",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_10"
+    },
+    {
+        "routeName": "Kanto Route 11",
+        "id": "11",
+        "location": "Kanto Region",  
+        "description": "Kanto route 11 connects Diglett's cave from north side, route 12 from east and Vermilion city from west side.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/5/5a/FRLG_Route_11.jpg/revision/latest/scale-to-width-down/1000?cb=20171008065822",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_11"
+    },
+
+    { 
+        "routeName": "Kanto Route 12",
+        "id": "12",
+        "location": "Kanto Region",
+        "description": "Kanto route 12 connects Lavender town from north side, route 11 from west and route 13 from south side.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/0/0f/Route_2_kanto.png/revision/latest/top-crop/width/200/height/150?cb=20170607135727",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_12"
+    },
+    {
+        "routeName": "Kanto Route 13",
+        "id": "13",
+        "location": "Kanto Region",  
+        "description": "Kanto route 13 connects route 12 from east side, route 14 from west.",
+        "routeImage":"https://vignette.wikia.nocookie.net/pokemon-planet/images/0/05/Kanto_Route_13_Map.png/revision/latest?cb=20160908073425",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_13"
+    },
+    {
+        "routeName": "Kanto Route 14",
+        "id": "14",
+        "location": "Kanto Region",  
+        "description": "Kanto route 14 connects route 13 from north side, route 15 from south.",
+        "routeImage":"https://www.media.pokekalos.fr/img/jeux/oa/guide/route-14.jpg",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_14"
+
+
+    },
+    {
+        
+        "routeName": "Kanto Route 15",
+        "id": "15",
+        "location": "Kanto Region",
+        "description": "Kanto route 15 connects Fuchsia city from west side, route 14 from east.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/f/f5/FRLG_Route_15.jpg/revision/latest/scale-to-width-down/1000?cb=20171008070740",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_15"
+
+    },
+    {
+        "routeName": "Kanto Route 16",
+        "id": "16",
+        "location": "Kanto Region",
+        "description": "Kanto route 16 connects celadon city from east side, route 17 from west.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/f/f7/FRLG_Route_16.jpg/revision/latest/scale-to-width-down/768?cb=20171008071659",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_16"
+    },
+    {
+        "routeName": "Kanto Route 17",
+        "id": "17",
+        "location": "Kanto Region",
+        "description": "Kanto route 17 connects route 16 from north side, route 18 from south.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/a/ab/Route_17.png/revision/latest/scale-to-width-down/384?cb=20171124084510",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_17"
+    },
+    {
+        "routeName": "Kanto Route 18",
+        "id": "18",
+        "location": "Kanto Region",
+        "description": "Kanto route 18 connects Fushia city from east side, route 17 from west.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/5/52/Route_18.png/revision/latest/scale-to-width-down/960?cb=20171124083714",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_18"
+    },
+    {
+        "routeName": "Kanto Route 19",
+        "id": "19",
+        "location": "Kanto Region",
+        "description": "Kanto route 19 connects Fushia city from north side, route 20 from south.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/b/b3/Route_19.png/revision/latest/scale-to-width-down/250?cb=20110201225534",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_19"
+    },
+    {
+        "routeName": "Kanto Route 20",
+        "id": "20",
+        "location": "Kanto Region", 
+        "description": "Kanto route 20 connects Cinnaar island from west side, route 19 from east.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/9/97/FRLG_Route_20.jpg/revision/latest/scale-to-width-down/1000?cb=20171008072350",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_20"
+    },
+    {
+        "routeName": "Kanto Route 21",
+        "id": "21",
+        "location": "Kanto Region",
+        "description": "Kanto route 21 connects Pallet from north side, Cinnabar island from south.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/c/c6/Route_21.png/revision/latest/scale-to-width-down/250?cb=20110202201650",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_21"
+    },
+
+    { 
+        "routeName": "Kanto Route 22",
+        "id": "22",
+        "location": "Kanto Region",
+        "description": "Kanto route 22 connects Viridian city from east side, Pokemon league reception gate from west.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/2/20/Route_22.png/revision/latest/scale-to-width-down/250?cb=20110202202530",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_22"
+    },
+    {
+        "routeName": "Kanto Route 23",
+        "id": "23",
+        "location": "Kanto Region",
+        "description": "Kanto route 23 connects Pokemon league reception gate from north side, Indigo Plateau from south.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/f/f4/Route_23.jpg/revision/latest/scale-to-width-down/384?cb=20171008073044",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_23"
+    },
+    {
+        "routeName": "Kanto Route 24",
+        "id": "24",
+        "location": "Kanto Region",
+        "description": "Kanto route 24 connects route 25 from north side, Cerulean city from south.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/e/ea/Route_24_PE.png/revision/latest/scale-to-width-down/664?cb=20181115115620",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_24"
+
+
+    },
+    {
+        "routeName": "Kanto Route 25",
+        "id": "25",
+        "location": "Kanto Region",
+        "description": "Kanto route 25 connects sea cottage from east side, route 24 from west.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/d/df/Route_25_PE.png/revision/latest/scale-to-width-down/661?cb=20181115121126",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_25"
+
+    },
+    {
+        "routeName": "Kanto Route 26",
+        "id": "26",
+        "location": "Kanto Region", 
+        "description": "Kanto route Pokemon league reception gate from north side, route 27 from south.",
+        "routeImage":"https://static.wikia.nocookie.net/pokemon/images/4/45/HGSS_Route_26.png/revision/latest/scale-to-width-down/512?cb=20100908004213",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_26"
+    },
+    {
+        "routeName": "Kanto Route 27",
+        "id": "27",
+        "location": "Kanto Region",
+        "description": "Kanto route 27 connects route 26 from east side, New Bark town from west.",
+        "routeImage":"https://pwo-wiki.info/images/a/a4/Route_27.png",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_27"
+    },
+    {
+        "routeName": "Kanto Route 28",
+        "id": "28",
+        "location": "Kanto Region", 
+        "description": "Kanto route 28 connects Pokemon league reception gate from east side, Mt. Silver from west.",
+        "routeImage":"https://vignette.wikia.nocookie.net/leonhartimvu/images/7/78/Kanto_Route_28_HGSS.png/revision/latest?cb=20181114031524",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Route_28"
+    }
+   
+]

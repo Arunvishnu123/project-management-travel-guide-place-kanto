@@ -1,7 +1,7 @@
 <template>
-<div>
-    <vueper-slides :duration="1000" autoplay fade :touchable="true">
-        <vueper-slide   v-for="slide in slides" :key="slide.id" :image="slide.image">
+<div class="test111"> 
+    <vueper-slides v-if="this.$store.state.test!=null" :duration="1000" autoplay fade :touchable="true">
+        <vueper-slide v-for="slide in slides" :key="slide.id" :image="slide.image">
             <template #content>
                 <div class="vueperslide__content-wrapper">
                     <div class="vueperslide__title">{{ slide.title }}</div>
@@ -47,6 +47,28 @@ export default {
         autoPlaying: true,
         internalAutoPlaying: true,
     }),
+    created() {
+        //this.slides[0].title = "this.$store.state.test.cityName" 
+    },
+    methods: {
+        async updatedata() {
+            await console.log("kbhh", this.$store.state.test);
+            if (this.$store.state.test != null) {
+                console.log("newpasdfsdfge", this.$store.state.test);
+                // this.slides[0].title = this.$store.state.test[0].cityName
+            }
+        },
+
+        test() {
+            this.slides[0].title = this.$store.state.test.cityName
+            console.log(this.slides[0].title)
+            console.log(this.$store.state.test.cityName)
+        }
+    },
+
+    mounted() {
+        /// this.updatedata();
+    },
 };
 </script>
 
@@ -57,13 +79,17 @@ export default {
 
 .vueperslide__title {
     font-size: 5em;
-    color: white;
+    color: rgb(8, 4, 4);
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .vueperslide__content {
     font-size: 3em;
-    color: white;
+    color: rgb(22, 16, 16);
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.test111{
+    position:relative;
+top:-675px
 }
 </style>

@@ -1,7 +1,7 @@
 <template>
 <w-app>
     <div>
-        <w-toolbar bg-color="info-dark1" color="white">
+        <w-toolbar bg-color="primary" color="white">
             <div class="test">Kanto Travel Guide</div>
             <div class="spacer"></div>
             <div class="test">Admin Page</div>
@@ -23,7 +23,7 @@ export default {
     padding-left: 15px;
     padding-right: 15px;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    font-size: 0.5cm;
+    font-size: 0.55cm;
     color: white;
 }
 
@@ -40,7 +40,7 @@ a:visited {
 
 a:hover,
 a:active {
-    background-color: rgb(26, 59, 245);
+    background-color: rgba(17, 12, 94, 0.966);
     color: white;
 }
 </style>

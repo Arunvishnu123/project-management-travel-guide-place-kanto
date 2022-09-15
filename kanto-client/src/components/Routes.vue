@@ -1,16 +1,18 @@
 <template>
-<div class="citydetails">
+<div class="routes">
     <w-app>
-        <w-tag xl height="3em" class="heading" bg-color="primary">Cities in World Kanto</w-tag>
+        <w-tag xl height="3em" class="heading" bg-color="primary">Routes List of World Kanto</w-tag>
         <div class="cities">
             <vueper-slides class="no-shadow" slide-multiple :arrows-outside="false" :visible-slides="4" :slide-ratio="1 / 4" :dragging-distance="70">
-                <vueper-slide v-for="city in this.$store.state.city" :key="city" :style="
+                <vueper-slide v-for="city in this.$store.state.routeDetails" :key="city" :style="
               'background-color: ' +
-              ['#043e94', '#2c3f5c'][this.$store.state.city.indexOf(city) % 2]
+              ['#043e94', '#2c3f5c'][
+                this.$store.state.routeDetails.indexOf(city) % 2
+              ]
             ">
                     <template #content>
                         <div class="vueperslide__content-wrapper">
-                            <div class="vueperslide__title">{{ city.cityName }}</div>
+                            <div class="vueperslide__title">{{ city.routeName }}</div>
                             <div class="vueperslide__content">
                                 {{ city.description }}
                             </div>
@@ -30,15 +32,13 @@ import {
 } from "vueperslides";
 import "vueperslides/dist/vueperslides.css";
 export default {
-    name: "ImportantPlaces",
+    name: "Pictures",
     components: {
         VueperSlides,
         VueperSlide,
     },
-
-    methods: {},
     created() {
-        this.$store.dispatch("getCityData");
+        this.$store.dispatch("getRouteDetails");
     },
 };
 </script>
@@ -55,14 +55,10 @@ export default {
     height: -10000px;
 }
 
-.image {
-    height: 30px;
-    width: 30px;
-}
-
-.citydetails {
+.routes {
     position: relative;
-    top: -1200px;
+    top: -450px;
+    height: 0;
 }
 
 .vueperslide__title {

@@ -1,0 +1,90 @@
+[
+    {
+        "cityName": "Pallet Town",
+        "id": "1",
+        "location": "Kanto Region",
+        "description": "Pallet Town is the first and start point of kanto. It is the quite and comfortable place for a visitor. The city is feeling like home. This city collected 8 league badges and became champion in kanto. Professor oak instructs what is needed to do and it's famous for his research work. It also serves as the hometown of Red and Blue.",
+        "cityImage":"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/pallet-town.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Pallet_Town"
+
+    },
+
+    { 
+        "cityName": "Saffron City",
+        "id": "2",
+        "location": "Kanto Region",  
+        "description": "Saffron City is the biggest city in the Kanto region and not surprisingly there are a number of interesting places to visit. Styled after the city of Tokyo, Saffron City is home to the Silph Co. headquarters, the Fighting Dojo, Mr. Psychic's house, Copycat's house, and of course the Saffron gym where players will find themselves up against Sabrina and her psychic-type team. There is also a train station called Magnet Train station.And also copycat's house situated in this city.",
+        "cityImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Saffron-City.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Saffron_City"
+
+
+    },
+    {
+        "cityName": "Cinnabar Island",
+        "id": "3",
+        "location": "Kanto Region",
+        "description": "Cinnabar Island is one of the coolest and large locations in the game. Home of a large volcano, the Cinnabar Lab, the Pokémon Mansion which is chock full of secrets pertaining to the legendary Pokémon Mewtwo, and of course fire-type specialist Blaine's gym and later the gym relocated to Seafom Islands",
+        "citymaIge": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Cinnabar-Island-volcano.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Cinnabar_Island"
+    },
+    {
+        "cityName": "Lavender Town",
+        "id": "4",
+        "location": "Kanto Region",  
+        "description": "Lavender town is the epitome of creepy. It's a small city in kanto. It holds such high spot in the city list. It's home to the pokemon tower and also there is 7 floor indore graveyard filled with graves and one of the memorable city and mistrious as well.Kanto Radio tower,Pokemon Cemetary are some points of interests there.",
+        "cityImage":"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Lavender-Town.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Lavender_Town"
+
+    },
+    {
+        "cityName": "Vermillion City",
+        "id": "5",
+        "location": "Kanto Region",
+        "description": "Vermillion city is adventerous. Vermillion is a port city, situated in central kanto and stopping here will see players hopping aboard the S.S. Anne, a ship that travels around the world and returns to Vermillion City once a year, for a quick look around. Vermilion Gym and Diglett's Cave's are situated here.",
+        "cityImage":"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Vermilion-City.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Vermilion_City"
+    },
+    {
+        "cityName": "Viridian City",
+        "id": "6",
+        "location": "Kanto Region",  
+        "description": "Viridian City is largely unimpressive the first time around.It's a small city. Players are directed here to deliver a parcel to Professor Oak, but other than that there's not much else to do just yet, although having associated with a song from anime. An old man teaches how to catch wild pokemon.It also has Viridian Gym and Trainer House.",
+        "cityImage":"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Viridian-City.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Viridian_City"
+
+    },
+    {
+        "cityName": "Cerulean City",
+        "id": "7",
+        "location": "Kanto Region",
+        "description": "Cerulean City is a city that just looks nice and situated in northern Kanto. Because of looks players are tend to visit more than once to discover what it offers to them and popular for cerulean gym. It's also home of water trainer.",
+        "cityImage":"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Cerulean-Gym.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "externalLink" : "https://bulbapedia.bulbagarden.net/wiki/Cerulean_City"
+    },
+    {
+        "cityName": "Pewter City",
+        "id": "8",
+        "location": "Kanto Region",  
+        "description": "Pewter City is known for different attractions and situated in northwest Kanto. Most popular is pewter city gym. Pewter is the first challange for players in kanto gourney.It also have a museum of science.",
+        "cityImage":"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Pewter-Museum.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Pewter_City"
+
+    },
+    {
+        "cityName": "Celadon City",
+        "id": "9",
+        "location": "Kanto Region",
+        "description": "Celadon city is situated in centre of the kanto. And one of the most populous city.It requires spending more money.And there is also a gym called Erika.Celadon Department Store, Celadon Mansion and Celadon Gym are main points of interests.",
+        "cityImage":"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Celadon-city.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Celadon_City"
+
+    },
+    {
+        "cityName": "Fuchsia City",
+        "id": "10",
+        "location": "Kanto Region",  
+        "description": "Fuchsia city is not one of the largest cities in kanto but it's one of the populous cities.It's located in central Kanto.It's also a historic city.Fuchsia gym is led by Poison-type specialist Koga in Gen I & III, but is taken over by his daughter Janine in later generations.",
+        "cityImage":"https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/03/Safari-Zone.jpg?q=50&fit=crop&w=740&dpr=1.5",
+        "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Fuchsia_City"
+    }
+]

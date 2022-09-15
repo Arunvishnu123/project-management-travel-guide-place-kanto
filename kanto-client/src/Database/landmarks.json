@@ -1,0 +1,78 @@
+[{
+    "id": "landmark1",
+    "landmarkName": "Indigo Plateau",
+    "landmarkDescription": "Indigo Plateau is the location of the Pokémon League in Kanto Region and is accessible for players after getting the 8 gym badges. It is closest to the viridian City. To reach the Indigo Plateau, players must take Route 22 from Viridian City and then Route 23. In the games, Indigo Plateau is represent as a large building surrounded by mountain areas.",
+    "imageLink": "https://archives.bulbagarden.net/media/upload/3/34/Indigo_Plateau_PE.png",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Indigo_Plateau"
+},
+{
+    "id": "landmark2",
+    "landmarkName": "Viridian Forest",
+    "landmarkDescription": "It is lies between Viridian City and Pewter City in the middle of Route 2. Viridian Forest filled with nature. Entrance to the forest looks to be light and the trees are not as thick. So sunlight is able to get in fine. But, the trees inside the forest are very thick, because of this inside the forest seems dark and gloomy. Many people become lost inside the forest.",
+    "imageLink": "https://archives.bulbagarden.net/media/upload/8/8c/HGSS_Viridian_Forest-Day.png",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Viridian_Forest"
+},
+{
+    "id": "landmark3",
+    "landmarkName": "Mt.Moon",
+    "landmarkDescription": "Mount Moon is a mountain in northern Canto between Pewter City to the west and Cerulean City to the east. It is not possible to climb into it. Travelers should always travel through the caves. the shape of the mt.moon is changes to every generation. To reach this, the players has go through root 2 and then root 3 from pewter city.",
+    "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkWs257xNZdYjTBuOeThSqrNCbWFZHhkBL1A&usqp=CAU",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Mt._Moon"
+},
+{
+    "id": "landmark4",
+    "landmarkName": "Sea Cottage",
+    "landmarkDescription":"Sea Cottage is a small building located on Route 25, northeast of Conto.It is home to Bill. To reach this, Players must take Route 4 from the Mt.moon to reach Cerulean City, and if they take  Route 24 and Route 25 from Cerulean City, they will reach sea cottage." ,
+    "imageLink": "https://archives.bulbagarden.net/media/upload/thumb/b/b3/Cerulean_Cape_HGSS.png/435px-Cerulean_Cape_HGSS.png",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Sea_Cottage"
+},
+{
+    "id": "landmark5",
+    "landmarkName": "Rock Tunnel",
+    "landmarkDescription": " The Rock Tunnel is a naturally formed underground tunnel. Players can find this tunnel in between Cerulean City and Lavender Town in the middle of Root 10. For travelling in this tunnel a light is needed to find the path. Some of the players are simply lost in the darkness.",
+    "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR185v_Tp16d6ry1dxV_GoNCDN_QBb2qWATDA&usqp=CAU",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Rock_Tunnel"
+},
+{
+    "id": "landmark6",
+    "landmarkName": "Power Plant",
+    "landmarkDescription": "Power Plant is overspread with electric Pokémon. Players can find this Power Plant in the middle of Root 10 after the Rock Tunnel. Many item balls located inside of the Power Plant are actually Voltorb or Electrode, The search for treasure here is somewhat risky.",
+    "inageLink" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsqtRYDwfwLbN6quQjpRb9jdcenB9Wfk7GA&usqp=CAU",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto_Power_Plant"
+},
+{
+    "id": "landmark7",
+    "landmarkName": "Diglett's Cave",
+    "landmarkDescription": "Diglett's Cave is a plain tunnel that was dug by wild Diglett. It is connecting Routes 2 and 11. It is tunnel dug by Diglett connecting Vermilion City to Pewter City. It is the only non-numbered routes in the Pokémon world. There are no items of interest along the cave.",
+    "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYTkeob9p0kcJu6tqlbsNCZwgjo8wEmXFrHA&usqp=CAU",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Diglett%27s_Cave"
+},
+{
+    "id": "landmark8",
+    "landmarkName": "Unknown Dungeon",
+    "landmarkDescription": "A cave located in corner of Cerulean City is named as Cerulean Cave was introduced as the Unknown Dungeon. It is filled with terribly tough Pokemon and it is home to a wide variety of high-level wild Pokémon. The designing for this cave is changing for one generation to anothoer generations and also for one to another game.",
+    "imageLink": "https://archives.bulbagarden.net/media/upload/9/90/Unknown_Dungeon_XY.png",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Unknown_Dungeon"
+},
+{
+    "id": "landmark9",
+    "landmarkName": " S.S.Anne",
+    "landmarkDescription": "To get this in the games, players should first collect an S.S. Ticket by helping out Bill at his home on Route 25. After visiting the S.S.Anne players has go to Vermilion City Gym.",
+    "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7NV_RQ1Yv-TezXUbsO_O-I93D9agrVZXbcw&usqp=CAU",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/S.S._Anne"
+},
+{
+    "id": "landmark10",
+    "landmarkName": "Seaform Islands",
+    "landmarkDescription": "The Seafoam Islands are a pair of islands.  The islands are full of twists and turns and have five separate floors. This underground make looks mighty confusing, but it's actually not that bad.  It is located in the middle of Route 20.",
+    "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ZbWa0c-RWkndkhfBYPmo7hgeCSBlhPjSuw&usqp=CAU",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Seafoam_Islands"
+},
+{
+    "id": "landmark11",
+    "landmarkName": "Seaform Islands",
+    "landmarkDescription": "The Seafoam Islands are a pair of islands.  The islands are full of twists and turns and have five separate floors. This underground make looks mighty confusing, but it's actually not that bad.  It is located in the middle of Route 20.",
+    "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ZbWa0c-RWkndkhfBYPmo7hgeCSBlhPjSuw&usqp=CAU",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Seafoam_Islands"
+}
+]

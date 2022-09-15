@@ -1,0 +1,57 @@
+[{
+    "id": "number1",
+    "badgeName": "Boulder badge",
+    "badgeDescription": "It is the First badge to collect by trainer to participate in the Indigo League. To collect this badge the trainer has to win battle against with the gym leader in Pewter City Gym. It is a Rock-type pokemon gym and Brock is the leader of this gym. The badge in the shape of a simple gray octagon. In the games, the Boulder Badge is allows to use HM Flash at outside of battle. It increases the player's Pokemon attack status.",
+    "badgeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_0l1B0Ln_gEPS4C29-K5oPBxf1iZeufTra9IjWWd0zsJTfo3OCqQOSKQDSfhqqu4R8Lg&usqp=CAU",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Pewter_Gym"
+},
+{
+    "id": "number2",
+    "badgeName": "Cascade Badge",
+    "badgeDescription": "It is the Second badge to collect by trainer to participate in the Indigo League. To collect this badge the trainer has to win battle against with the gym leader in Cerulean City Gym. It is a Water-type pokemon gym and Misty is the leader of this gym. The badge in the shape of a light blue raindrop. In the games, the Cascade Badge is allows to use HM Cut at outside of battle and forces all Pok‌mon up to Level 30 to be subject to the trainer.",
+    "badgeImage": "https://i.imgur.com/iiHNDR1.png",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Cerulean_Gym"
+},
+{
+    "id": "number3",
+    "badgeName": "Thunder Badge",
+    "badgeDescription": "It is the Third badge to collect by trainer to participate in the Indigo League. To collect this badge the trainer has to win battle against with the gym leader in Vermilion City Gym. It is a Electric-type pokemon gym and Lt.Surge is the leader of this gym. The badge in the shape of an eight-pointed gold star with an orange octagon in the center. In the games, the Thunder Badge is allows to use HM Fly at outside of battle.",
+    "badgeImage": "http://pm1.narvii.com/6365/9826208a157f40064687ab880562678218de57d1_00.jpg",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Vermilion_Gym"
+},
+{
+    "id": "number4",
+    "badgeName": "Rainbow Badge",
+    "badgeDescription": "It is the Fourth badge to collect by trainer to participate in the Indigo League. To collect this badge the trainer has to win battle against with the gym leader in Celaon City Gym. It is a Grass-type pokemon gym and Erika is the leader of this gym. The badge in the shape of like a flower, showing grass and petals are rainbow colored. In the games, the Rainbow Badge is allows to use HM Strength at outside of battle.",
+    "badgeImage": "https://cdn.staticneo.com/w/pokemon/thumb/b/b5/Rainbow_Badge.png/75px-Rainbow_Badge.png",
+    "externalLink":"https://bulbapedia.bulbagarden.net/wiki/Celadon_Gym"
+},
+{
+    "id": "number5",
+    "badgeName": "Soul Badge",
+    "badgeDescription": "It is the Fifth badge to collect by trainer to participate in the Indigo League. To collect this badge the trainer has to win battle against with the gym leader in Fuchsia City Gym. It is a Poison-type Pokémon gym and Janine, and formerly her father koga are the leaders of this gym. The badge in the shape of a fuchsia heart. In the games, the Soul Badge is allows to use HM Surf at outside of battle and increases the defensive status of trainers Pokemon.",
+    "badgeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSngZC4tJNX10N_r_w5iBF8ZNFKPCAFE6Yvjg&usqp=CAU",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Fuchsia_Gym"
+},
+{
+    "id": "number6",
+    "badgeName": "Marsh badge",
+    "badgeDescription": "It is the Sixth badge to collect by trainer to participate in the Indigo League. To collect this badge the trainer has to win battle against with the gym leader in Saffron City Gym. It is a Psychic-type Pokémon gym and Sabrina is the leader of this gym. The badge in the shape of a gold circle with a smaller gold circle inside it. In the games, the Marsh Badge is allows to use Rock Smash at outside of battle and forces all Pok‌mon up to Level 70 to be subject to the trainer.",
+    "badgeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRebgUEFUrpAziNdEyETcR1w_QCPllwkClg&usqp=CAU",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Saffron_Gym"
+},
+{
+    "id": "number7",
+    "badgeName": "Volcano badge",
+    "badgeDescription": "It is the Seventh badge to collect by trainer to participate in the Indigo League. To collect this badge the trainer has to win battle against with the gym leader in Cinnabar Island Gym. It is a Fire-type Pokémon gym and Blaine is the leader of this gym. The badge in the shaped like a flame and red in colour. In the games, the Volcano Badge is allows to use Waterfall at outside of battle and increases the Trainer's Pokémon's Special stats.",
+    "badgeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2Kiw_47KUBAnSAPB8m1V5yyubgcdFFlQKA&usqp=CAU",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Cinnabar_Gym"
+},
+{
+    "id": "number8",
+    "badgeName": "Earth badge",
+    "badgeDescription": "It is the Eighth and last badge to collect by trainer to participate in the Indigo League. To collect this badge the trainer has to win battle against with the gym leader in Viridian City Gym. It is a Ground-type Pokémon gym and Giovanni is the leader of this gym. The badge in the shaped like a plant, which grows on earth. In the games, This will make all the Pokemon stick to the trainer.",
+    "badgeImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwemIRyYVODwwFGn_NwbVFcxDEHn88cgmwrQ&usqp=CAU",
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Viridian_Gym"
+}
+]

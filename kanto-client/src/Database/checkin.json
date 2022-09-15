@@ -1,0 +1,618 @@
+[
+    {
+      "PlayerName": "Blue",
+      "PlaceName": "Pallet Town"
+    },
+    {
+      "PlayerName": "Blue",
+      "PlaceName": "Route 22"
+    },
+    {
+      "PlayerName": "Bug catcher #1",
+      "PlaceName": "Viridian Forest"
+    },
+    {
+      "PlayerName": "Bug catcher #2",
+      "PlaceName": "Viridian Forest"
+    },
+    {
+      "PlayerName": "Bug catcher #3",
+      "PlaceName": "Viridian Forest"
+    },
+    {
+      "PlayerName": "Jr. Trainer♂ #1",
+      "PlaceName": "Pewter Gym"
+    },
+    {
+      "PlayerName": "Brock",
+      "PlaceName": "Pewter Gym"
+    },
+    {
+      "PlayerName": "Lass #1",
+      "PlaceName": "Route 3"
+    },
+    {
+      "PlayerName": "Lass #2",
+      "PlaceName": "Route 3"
+    },
+    {
+      "PlayerName": "Lass #3",
+      "PlaceName": "Route 3"
+    },
+    {
+      "PlayerName": "Yougster #1",
+      "PlaceName": "Route 3"
+    },
+    {
+      "PlayerName": "Yougster #2",
+      "PlaceName": "Route 3"
+    },
+    {
+      "PlayerName": "Bug catcher #1",
+      "PlaceName": "Route 3"
+    },
+    {
+      "PlayerName": "Bug catcher #2",
+      "PlaceName": "Route 3"
+    },
+    {
+      "PlayerName": "Bug catcher #3",
+      "PlaceName": "Route 3"
+    },
+    {
+      "PlayerName": "The Magikarp salesman",
+      "PlaceName": "Route 4"
+    },
+    {
+      "PlayerName": "Lass #1",
+      "PlaceName": "Mt. Moon"
+    },
+    {
+      "PlayerName": "Lass #2",
+      "PlaceName": "Mt. Moon"
+    },
+    {
+      "PlayerName": "Super Nerd #1",
+      "PlaceName": "Mt. Moon"
+    },
+    {
+      "PlayerName": "Bug catcher #1",
+      "PlaceName": "Mt. Moon"
+    },
+    {
+      "PlayerName": "Bug catcher #2",
+      "PlaceName": "Mt. Moon"
+    },
+    {
+      "PlayerName": "Youngster #1",
+      "PlaceName": "Mt. Moon"
+    },
+    {
+      "PlayerName": "Hiker #1",
+      "PlaceName": "Mt. Moon"
+    },
+    {
+      "PlayerName": "Rocket #1",
+      "PlaceName": "Mt. Moon"
+    },
+    {
+      "PlayerName": "Rocket #2",
+      "PlaceName": "Mt. Moon"
+    },
+    {
+      "PlayerName": "Rocket #3",
+      "PlaceName": "Mt. Moon"
+    },
+    {
+      "PlayerName": "Rocket #4",
+      "PlaceName": "Mt. Moon"
+    },
+    {
+      "PlayerName": "Super Nerd #1",
+      "PlaceName": "Mt. Moon"
+    },
+    {
+      "PlayerName": "Gym badge man",
+      "PlaceName": "Cerulean City"
+    },
+    {
+      "PlayerName": "Police officer",
+      "PlaceName": "Cerulean City"
+    },
+    {
+      "PlayerName": "Misty",
+      "PlaceName": "Cerulean Gym"
+    },
+    {
+      "PlayerName": "Blue",
+      "PlaceName": "Route 24"
+    },
+    {
+      "PlayerName": "Bill",
+      "PlaceName": "Sea Cottage"
+    },
+    {
+      "PlayerName": "Old man #1",
+      "PlaceName": "Sea Cottage"
+    },
+    {
+      "PlayerName": "Bug catcher #2",
+      "PlaceName": "Route 6"
+    },
+    {
+      "PlayerName": "Jr. Trainer♂ #1",
+      "PlaceName": "Route 6"
+    },
+    {
+      "PlayerName": "Jr. Trainer♂ #2",
+      "PlaceName": "Route 6"
+    },
+    {
+      "PlayerName": "Jr. Trainer♀ #1",
+      "PlaceName": "Route 6"
+    },
+    {
+      "PlayerName": "Jr. Trainer♀ #2",
+      "PlaceName": "Route 6"
+    },
+    {
+      "PlayerName": "Fishing Guru #1",
+      "PlaceName": "Vermilion City"
+    },
+    {
+      "PlayerName": "Little girl #1",
+      "PlaceName": "Vermilion City"
+    },
+    {
+      "PlayerName": "Chairman",
+      "PlaceName": "Vermilion City"
+    },
+    {
+      "PlayerName": "Gentleman #1",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Gentleman #2",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Lass #2",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Youngster #3",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Sailor #1",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Sailor #2",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Sailor #3",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Sailor #4",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Sailor #5",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Fisherman #1",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Sailor #2",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Sailor #5",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Fisherman #1",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Gentleman #1",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Gentleman #2",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Lass #3",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Blue",
+      "PlaceName": "S.S. Anne"
+    },
+    {
+      "PlayerName": "Gentleman #2",
+      "PlaceName": "Vermilion City"
+    },
+    {
+      "PlayerName": "Rocker #1",
+      "PlaceName": "Vermilion City"
+    },
+    {
+      "PlayerName": "Sailor #1",
+      "PlaceName": "Vermilion City"
+    },
+    {
+      "PlayerName": "Lt. Surge",
+      "PlaceName": "Vermilion City"
+    },
+    {
+      "PlayerName": "Oak's aide #1",
+      "PlaceName": "Route 11"
+    },
+    {
+      "PlayerName": "Kid #1",
+      "PlaceName": "Route 11"
+    },
+    {
+      "PlayerName": "Oak's aide #2",
+      "PlaceName": "Route 2"
+    },
+    {
+      "PlayerName": "Sleeping male",
+      "PlaceName": "Viridian City"
+    },
+    {
+      "PlayerName": "Scientist #1",
+      "PlaceName": "Pewter Gym"
+    },
+    {
+      "PlayerName": "PokéManiac #1",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "PokéManiac #2",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "PokéManiac #3",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "PokéManiac #4",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Hiker #1",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Hiker #2",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Hiker #3",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Hiker #4",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Hiker #5",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Hiker #6",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Jr. Trainer♀ #1",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Jr. Trainer♀ #2",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Jr. Trainer♀ #3",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Jr. Trainer♀ #4",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Jr. Trainer♀ #5",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Jr. Trainer♀ #5",
+      "PlaceName": "Route 10"
+    },
+    {
+      "PlayerName": "PokéManiac #2",
+      "PlaceName": "Route 10"
+    },
+    {
+      "PlayerName": "Hiker #2",
+      "PlaceName": "Route 10"
+    },
+    {
+      "PlayerName": "Hiker #3",
+      "PlaceName": "Route 10"
+    },
+    {
+      "PlayerName": "Name rater",
+      "PlaceName": "Lavender Town"
+    },
+    {
+      "PlayerName": "Mr. Fuji",
+      "PlaceName": "Lavender Town"
+    },
+    {
+      "PlayerName": "Blue",
+      "PlaceName": "Lavender Town"
+    },
+    {
+      "PlayerName": "Lass #1",
+      "PlaceName": "Route 8"
+    },
+    {
+      "PlayerName": "Lass #2",
+      "PlaceName": "Route 8"
+    },
+    {
+      "PlayerName": "Lass #3",
+      "PlaceName": "Route 8"
+    },
+    {
+      "PlayerName": "Lass #4",
+      "PlaceName": "Route 8"
+    },
+    {
+      "PlayerName": "Super Nerd #1",
+      "PlaceName": "Route 8"
+    },
+    {
+      "PlayerName": "Super Nerd #2",
+      "PlaceName": "Route 8"
+    },
+    {
+      "PlayerName": "Super Nerd #3",
+      "PlaceName": "Route 8"
+    },
+    {
+      "PlayerName": "Gambler #1",
+      "PlaceName": "Route 8"
+    },
+    {
+      "PlayerName": "Gambler #2",
+      "PlaceName": "Route 8"
+    },
+    {
+      "PlayerName": "Game Freak's game designer",
+      "PlaceName": "Celedan City"
+    },
+    {
+      "PlayerName": "The guy in the back corner",
+      "PlaceName": "Celedan City"
+    },
+    {
+      "PlayerName": "Little girl #2",
+      "PlaceName": "Celedan City"
+    },
+    {
+      "PlayerName": "Erika",
+      "PlaceName": "Celadon Gym"
+    },
+    {
+      "PlayerName": "Rocket #3",
+      "PlaceName": "Fuchsia City"
+    },
+    {
+      "PlayerName": "Giovanni",
+      "PlaceName": "Celaon City"
+    },
+    {
+      "PlayerName": "Guide",
+      "PlaceName": "Route 7"
+    },
+    {
+      "PlayerName": "Blue",
+      "PlaceName": "Cerulean City"
+    },
+    {
+      "PlayerName": "Mr. Fuji",
+      "PlaceName": "Cerulean City"
+    },
+    {
+      "PlayerName": "Mr. Fuji",
+      "PlaceName": "Cerulean City"
+    },
+    {
+      "PlayerName": "Mr. Psychic",
+      "PlaceName": "Saffron City"
+    },
+    {
+      "PlayerName": "Blackbelt",
+      "PlaceName": "Pewter City"
+    },
+    {
+      "PlayerName": "Guard",
+      "PlaceName": "Pewter City"
+    },
+    {
+      "PlayerName": "Silph president",
+      "PlaceName": "Pewter City"
+    },
+    {
+      "PlayerName": "Woman #1",
+      "PlaceName": "Pewter City"
+    },
+    {
+      "PlayerName": "Blue",
+      "PlaceName": "Pewter City"
+    },
+    {
+      "PlayerName": "Giovanni",
+      "PlaceName": "Pewter City"
+    },
+    {
+      "PlayerName": "Sabrina",
+      "PlaceName": "Saffron Gym"
+    },
+    {
+      "PlayerName": "Reclusive girl",
+      "PlaceName": "Route 16"
+    },
+    {
+      "PlayerName": "Kid #2",
+      "PlaceName": "Route 18"
+    },
+    {
+      "PlayerName": "Fishing Guru #2",
+      "PlaceName": "Fuchsia City"
+    },
+    {
+      "PlayerName": "Koga",
+      "PlaceName": "Fuchsia Gym"
+    },
+    {
+      "PlayerName": "The Warden",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Fishing Guru #3",
+      "PlaceName": "Route 12"
+    },
+    {
+      "PlayerName": "Oak's aide #3",
+      "PlaceName": "Route 15"
+    },
+    {
+      "PlayerName": "Blaine",
+      "PlaceName": "Cinnabar Island"
+    },
+    {
+      "PlayerName": "Old man #2",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Woman #2",
+      "PlaceName": "Rock Tunnel"
+    },
+    {
+      "PlayerName": "Scientist #1",
+      "PlaceName": "Power Plant"
+    },
+    {
+      "PlayerName": "Scientist #2",
+      "PlaceName": "Power Plant"
+    },
+    {
+      "PlayerName": "Scientist #3",
+      "PlaceName": "Power Plant"
+    },
+    {
+      "PlayerName": "Burglar #1",
+      "PlaceName": "Diglett's Cave"
+    },
+    {
+      "PlayerName": "Scientist #2",
+      "PlaceName": "Diglett's Cave"
+    },
+    {
+      "PlayerName": "Burglar #2",
+      "PlaceName": "Diglett's Cave"
+    },
+    {
+      "PlayerName": "Blaine",
+      "PlaceName": "Cinnabar Gym"
+    },
+    {
+      "PlayerName": "Old man #3",
+      "PlaceName": "Cerulean City"
+    },
+    {
+      "PlayerName": "PokéManiac #4",
+      "PlaceName": "Route 10"
+    },
+    {
+      "PlayerName": "Trainer #1",
+      "PlaceName": "Power Plant"
+    },
+    {
+      "PlayerName": "Giovanni",
+      "PlaceName": "Viridian Gym"
+    },
+    {
+      "PlayerName": "Cooltrainer♂ #1",
+      "PlaceName": "Unknown Dungeon"
+    },
+    {
+      "PlayerName": "Cooltrainer♂ #2",
+      "PlaceName": "Unknown Dungeon"
+    },
+    {
+      "PlayerName": "Cooltrainer♂ #3",
+      "PlaceName": "Unknown Dungeon"
+    },
+    {
+      "PlayerName": "Cooltrainer♀ #1",
+      "PlaceName": "Unknown Dungeon"
+    },
+    {
+      "PlayerName": "Cooltrainer♀ #2",
+      "PlaceName": "S.S.Anne"
+    },
+    {
+      "PlayerName": "Cooltrainer♀ #3",
+      "PlaceName": "S.S.Anne"
+    },
+    {
+      "PlayerName": "Blackbelt",
+      "PlaceName": "S.S.Anne"
+    },
+    {
+      "PlayerName": "Juggler #1",
+      "PlaceName": "S.S.Anne"
+    },
+    {
+      "PlayerName": "Juggler #2",
+      "PlaceName": "S.S.Anne"
+    },
+    {
+      "PlayerName": "PokéManiac #1",
+      "PlaceName": "S.S.Anne"
+    },
+    {
+      "PlayerName": "Tamer #1",
+      "PlaceName": "S.S.Anne"
+    },
+    {
+      "PlayerName": "Lorelei",
+      "PlaceName": "Indigo Plateau"
+    },
+    {
+      "PlayerName": "Bruno",
+      "PlaceName": "Indigo Plateau"
+    },
+    {
+      "PlayerName": "Agatha",
+      "PlaceName": "Indigo Plateau"
+    },
+    {
+      "PlayerName": "Lance",
+      "PlaceName": "Indigo Plateau"
+    },
+    {
+      "PlayerName": "Blue",
+      "PlaceName": "Indigo Plateau"
+    }
+  ]

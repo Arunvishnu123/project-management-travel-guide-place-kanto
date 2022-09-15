@@ -1,0 +1,152 @@
+[
+{
+    "id": "number1",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Saffron City",
+    "path": "Pallet Town, Route21, Cinnabar Isalnd, Route20, Seaform Island, Rote19, Fushsia City, Route18, Route17, Route16, Celedan City, Rote7, Saffron City"
+},
+{
+    "id": "number2",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Cinnabar Island",
+    "path": "Pallet Town, Route21, Cinnabar Isalnd"
+},
+{
+    "id": "number3",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Lavender Town",
+    "path": "Pallet Town, Route21, Cinnabar Isalnd, Route20, Seaform Island, Rote19, Fushsia City, Route13, Route14, Route15, Route12, Lavender Town"
+},
+{
+    "id": "number4",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Vermillion City",
+    "path": "Pallet Town, Route21, Cinnabar Isalnd, Route20, Seaform Island, Rote19, Fushsia City, Route13, Route14, Route15, Route11, Vermilian City"
+},
+{
+    "id": "number5",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Viridian City",
+    "path": "Pallet Town, Route1, Viridian City"
+},
+{
+    "id": "number6",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Cerulean City",
+    "path": "Pallet Town, Route1, Viridian City,Route2, Digital Cave, Viridian Forest, Pewter City, Route3, Route4, Cerulean City"
+},
+{
+    "id": "number7",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Pewter City",
+    "path": "Pallet Town, Route1, Viridian City,Route2, Digital Cave, Viridian Forest, Pewter City"
+},
+{
+    "id": "number8",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Celandon City",
+    "path": "Pallet Town, Route21, Cinnabar Isalnd, Route20, Seaform Island, Rote19, Fushsia City, Route18, Route17, Route16, Celedan City"
+},
+{
+    "id": "number9",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Fuchsia City",
+    "path": "Pallet Town, Route21, Cinnabar Isalnd, Route20, Seaform Island, Rote19, Fushsia City"
+},
+{
+    "id": "number10",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Viridian Forest",
+    "path": "Pallet Town, Route1, Viridian City,Route2, Digital Cave, Viridian Forest"
+},
+{
+    "id": "number11",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Mt.Moon",
+    "path": "Pallet Town, Route1, Viridian City,Route2, Digital Cave, Viridian Forest, Pewter City, Route3, Route4, Mt.Moon"
+},
+{
+    "id": "number12",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Sea Cottage",
+    "path": "Pallet Town, Route1, Viridian City,Route2, Digital Cave, Viridian Forest, Pewter City, Route3, Route4, Cerulean City, Route24, Route25, Sea Cottage"
+},
+{
+    "id": "number13",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Rock Tunnel",
+    "path": "Pallet Town, Route21, Cinnabar Isalnd, Route20, Seaform Island, Rote19, Fushsia City, Route13, Route14, Route15, Route12, Lavender Town, Power Plant, Route10, Rock Tunnel"
+},
+{
+    "id": "number14",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Power Plant",
+    "path": "Pallet Town, Route21, Cinnabar Isalnd, Route20, Seaform Island, Rote19, Fushsia City, Route13, Route14, Route15, Route12, Lavender Town, Power Plant"
+},
+{
+    "id": "number15",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Diglett's Cave",
+    "path": "Pallet Town, Route1, Viridian City,Route2, Digital Cave"
+},
+{
+    "id": "number16",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "S.S.Anne",
+    "path": "Pallet Town, Route21, Cinnabar Isalnd, Route20, Seaform Island, Rote19, Fushsia City, Route13, Route14, Route15, Route11, Vermilian City, S.S.Anne"
+},
+{
+    "id": "number17",
+    "startPlace": "Pallet Town",
+    "destinationPlace": "Seaform Islands",
+    "path": "Pallet Town, Route21, Cinnabar Isalnd, Route20, Seaform Island"
+},
+{
+    "id": "number18",
+    "startPlace": "Vermillion City",
+    "destinationPlace": "Lavender Town",
+    "path": "Vermillion City, Route11, Route12, Lavender Town"
+},
+{
+    "id": "number19",
+    "startPlace": "Vermillion City",
+    "destinationPlace": "Sea Cottage",
+    "path": "Vermillion City, Route6, Saffron City, Route5, Cerulean City, Route24, Route25, Sea Cottage"
+},
+{
+    "id": "number20",
+    "startPlace": "Vermillion City",
+    "destinationPlace": "Pewter City",
+    "path": "Vermillion City, Route6, Saffron City, Route5, Cerulean City, Route4, Route3, Pewter City"
+},
+{
+    "id": "number21",
+    "startPlace": "Lavender Town",
+    "destinationPlace": "Viridian City",
+    "path": "Lavender Town, Power Plant, Route10, Rock Tunnel, Route9, Cerulean City, Route4, Route3, Pewter City, Viridian Forest, Route2, Viridian City"
+},
+{
+    "id": "number22",
+    "startPlace": "Lavender Town",
+    "destinationPlace": "Seaform Islands",
+    "path": "Lavender Town, Route12, Route15, Route14, Route13, Fushsia City, Route19, Seaform Islands"
+},
+{
+    "id": "number23",
+    "startPlace": "Celadon City",
+    "destinationPlace": "Rock Tunnel",
+    "path": "Celadon City, Route7, Saffron City, Lavender Town, Power Plant, Route10, Rock Tunnel"
+},
+{
+    "id": "number24",
+    "startPlace": "Fuchsia City",
+    "destinationPlace": "Mt.Moon",
+    "path": "Fuchsia City, Route18, Route17, Route16, Celedan City, Route7, Saffron City, Route5, Cerulean City, Route4, Mt.Moon"
+},
+{
+    "id": "number25",
+    "startPlace": "Cerulean City",
+    "destinationPlace": "S.S.Anne",
+    "path": "Cerulean City, Route5, Saffron City, Route6, Vermilian City, S.S.Anne"
+}
+]

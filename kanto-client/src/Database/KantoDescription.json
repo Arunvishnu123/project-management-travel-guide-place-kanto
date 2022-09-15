@@ -1,0 +1,12 @@
+[{
+    "id": "1",
+    "regionName": "Kanto",
+    "kantoDescription": "kanto is a region of the Pokemon World. It locates east of Johto and forms a joint landform that is south of Sinnoh. This is the main place in the first generation of pokemon League and it can be explored in generations II, III, IV, and VII. The maximum part of the Kanto region is occupied by forests and plains. In northern and western places of Kanto are mostly has several mountains. There is a several types of towns and cities are located in the region, from the large, urban Saffron City to the quiet, unique town of Pallet. Kanto has a contrast between urban cities and rural towns. Mostly all cities are located in the center of the region. All cities in Kanto are named after colors, with the exception of Pallet Town, which refers to a palette, meaning a range of colors. Kanto's name it self reflects its real-world name. Kanto shares its borders with Johto. Indigo Plateau and Victory Road mountain range are dividing Kanto from the neighboring region Johto. Routes in Kanto have numbers, going from 1 to 25, and adding three routes to connect to Johto (26, 27, and 28). The Johto region follows Kanto's region route which ends at Route number 28 in the Kanto region and begins with Johto's Route number 29. Compared to Janto, Kanto is modern and technological, but two regions are similar in terms of geography. Kanto features a Pokémon League. Professor Oak is the resident Pokémon Professor. We have 8 cities and 2 towns in kanto region. In the games, the player begins their journey in Pallet Town and ends it at Indigo Plateau. At each city the player has to collect badge from city gym leader by win battle against with the gym leader. Every badge gives it's respective powers to player to continue the game. In different locations in each area, the player can find different types of Pok‌mon as well as auxiliary items and characters.",
+    "kantoImages":{ 
+    "kantoImage1": "https://www.pokepedia.fr/images/thumb/4/44/Kanto_LGPE.png/413px-Kanto_LGPE.png",
+    "kantoImage2": "https://www.pokepedia.fr/images/9/90/Localisation_Route_1_%28Kanto%29_anim%C3%A9_LGPE.png",
+    "kantoImage3":"https://bulbapedia.bulbagarden.net/wiki/Kanto",
+    "kantoImage4": "(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMD86QV7YHR4C-GtYPDyAE4pIQ_Fo044Bpgw&usqp=CAU"
+    },
+    "externalLink": "https://bulbapedia.bulbagarden.net/wiki/Kanto"
+}]
